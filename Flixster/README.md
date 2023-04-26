@@ -38,7 +38,7 @@ The App's Detail screen corrently does not support landscape orientation.
 
 Submitted by: **Chengtao Lin**
 
-Flixster has not introduced networking, so users can see the info of currently playing movies and their posters! Thanks, TMDB gives the API support!
+Flixster has introduced networking, so users can see the info of currently playing movies and their posters! Thanks, TMDB gives the API support!
 
 Time spent: **16** hours spent in total
 
